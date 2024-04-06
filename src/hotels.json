@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Lumina at Cardinal San Jose del Cabo",
+        "image": "img/lumina.jpg",
+        "price": 86,
+        "star": 3,
+        "isSaved": false,
+        "city": "Los Cabos"
+    },
+    {
+        "name": "Bermonds Locke",
+        "image": "img/bermonds.jpg",
+        "price": 185,
+        "star": 4,
+        "isSaved": false,
+        "city": "London"
+    },
+    {
+        "name": "Sonder The Witherspoon",
+        "image": "img/witherspoon.jpg",
+        "price": 151,
+        "star": 3,
+        "isSaved": false,
+        "city": "Philadelphia"
+    },
+    {
+        "name": "Sofitel Philadelphia at Rittenhouse Square",
+        "image": "img/sofitel.jpg",
+        "price": 324,
+        "star": 4,
+        "isSaved": false,
+        "city": "Philadelphia"
+    },
+    {
+        "name": "Caribe Royale Orlando",
+        "image": "img/caribe.jpg",
+        "price": 237,
+        "star": 4,
+        "isSaved": false,
+        "city": "Orlando"
+    },
+    {
+        "name": "Sonder at The Point",
+        "image": "img/sonder.jpg",
+        "price": 104,
+        "star": 4,
+        "isSaved": false,
+        "city": "Orlando"
+    },
+    {
+        "name": "Wyndham Garden Orlando Universal / I Drive",
+        "image": "img/wyndham.jpg",
+        "price": 114,
+        "star": 3,
+        "isSaved": false,
+        "city": "Orlando"
+    },
+    {
+        "name": "The Resident Kensington",
+        "image": "img/resident.jpg",
+        "price": 215,
+        "star": 4,
+        "isSaved": false,
+        "city": "London"
+    },
+    {
+        "name": "Park Plaza London Waterloo",
+        "image": "img/park.jpg",
+        "price": 190,
+        "star": 4,
+        "isSaved": false,
+        "city": "London"
+    },
+    {
+        "name": "The Prince Akatoki London",
+        "image": "img/prince.jpg",
+        "price": 399,
+        "star": 5,
+        "isSaved": false,
+        "city": "London"
+    },
+    {
+        "name": "Club Regina Los Cabos",
+        "image": "img/club.jpg",
+        "price": 92,
+        "star": 3,
+        "isSaved": false,
+        "city": "Los Cabos"
+    },
+    {
+        "name": "Clayton Hotel London Wall",
+        "image": "img/clayton.jpg",
+        "price": 413,
+        "star": 4,
+        "isSaved": false,
+        "city": "London"
+    }
+]
